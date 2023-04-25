@@ -15,3 +15,6 @@ This will avoid the DB load.
 - Consider Region failure
 - Consider more shard in place or region 
 - consider IPOS required for the load
+
+### When indexing
+- follow the ESR[https://www.mongodb.com/docs/manual/tutorial/equality-sort-range-rule/] rule
